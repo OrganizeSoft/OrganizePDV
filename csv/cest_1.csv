@@ -168,14 +168,10 @@ IV;CERVEJAS, CHOPES, REFRIGERANTES, ÁGUAS E OUTRAS BEBIDAS;100;301000;2202;Refr
 IV;CERVEJAS, CHOPES, REFRIGERANTES, ÁGUAS E OUTRAS BEBIDAS;110;301100;2202;Demais refrigerantes, exceto os classificados no CEST 03.010.00 e 03.011.01
 IV;CERVEJAS, CHOPES, REFRIGERANTES, ÁGUAS E OUTRAS BEBIDAS;111;301101;2202;Espumantes sem álcool
 IV;CERVEJAS, CHOPES, REFRIGERANTES, ÁGUAS E OUTRAS BEBIDAS;120;301200;2106.90.10;Xarope ou extrato concentrado destinados ao preparo de refrigerante em máquina “pré-mix” ou “post-mix”
-IV;CERVEJAS, CHOPES, REFRIGERANTES, ÁGUAS E OUTRAS BEBIDAS;130;301300;"2106.90
-2202.99.00";Bebidas energéticas em embalagem com capacidade inferior a 600ml
-IV;CERVEJAS, CHOPES, REFRIGERANTES, ÁGUAS E OUTRAS BEBIDAS;140;301400;"2106.90
-2202.99.00";Bebidas energéticas em embalagem com capacidade igual ou superior a 600ml
-IV;CERVEJAS, CHOPES, REFRIGERANTES, ÁGUAS E OUTRAS BEBIDAS;150;301500;"2106.90
-2202.99.00";Bebidas hidroeletrolíticas (isotônicas) em embalagem com capacidade inferior a 600ml
-IV;CERVEJAS, CHOPES, REFRIGERANTES, ÁGUAS E OUTRAS BEBIDAS;160;301600;"2106.90
-2202.99.00";Bebidas hidroeletrolíticas (isotônicas) em embalagem com capacidade igual ou superior a 600ml
+IV;CERVEJAS, CHOPES, REFRIGERANTES, ÁGUAS E OUTRAS BEBIDAS;130;301300;"2106.90 2202.99.00";Bebidas energéticas em embalagem com capacidade inferior a 600ml
+IV;CERVEJAS, CHOPES, REFRIGERANTES, ÁGUAS E OUTRAS BEBIDAS;140;301400;"2106.902202.99.00";Bebidas energéticas em embalagem com capacidade igual ou superior a 600ml
+IV;CERVEJAS, CHOPES, REFRIGERANTES, ÁGUAS E OUTRAS BEBIDAS;150;301500;"2106.902202.99.00";Bebidas hidroeletrolíticas (isotônicas) em embalagem com capacidade inferior a 600ml
+IV;CERVEJAS, CHOPES, REFRIGERANTES, ÁGUAS E OUTRAS BEBIDAS;160;301600;"2106.902202.99.00";Bebidas hidroeletrolíticas (isotônicas) em embalagem com capacidade igual ou superior a 600ml
 IV;CERVEJAS, CHOPES, REFRIGERANTES, ÁGUAS E OUTRAS BEBIDAS;210;302100;2203.00.00;Cerveja
 IV;CERVEJAS, CHOPES, REFRIGERANTES, ÁGUAS E OUTRAS BEBIDAS;220;302200;2202.91.00;Cerveja sem álcool
 IV;CERVEJAS, CHOPES, REFRIGERANTES, ÁGUAS E OUTRAS BEBIDAS;230;302300;2203.00.00;Chope
@@ -391,8 +387,7 @@ XIV;MEDICAMENTOS DE USO HUMANO E OUTROS PRODUTOS;120;1301200;"4015.11.004015.19.
 XIV;MEDICAMENTOS DE USO HUMANO E OUTROS PRODUTOS;130;1301300;4014.10.00;Preservativo – neutra
 XIV;MEDICAMENTOS DE USO HUMANO E OUTROS PRODUTOS;140;1301400;9018.31;Seringas, mesmo com agulhas - neutra
 XIV;MEDICAMENTOS DE USO HUMANO E OUTROS PRODUTOS;150;1301500;9018.32.1;Agulhas para seringas - neutra
-XIV;MEDICAMENTOS DE USO HUMANO E OUTROS PRODUTOS;160;1301600;"3926.90.90
-9018.90.99";"Contraceptivos (dispositivos intrauterinos - DIU) - neutra "
+XIV;MEDICAMENTOS DE USO HUMANO E OUTROS PRODUTOS;160;1301600;"3926.90.90 9018.90.99";"Contraceptivos (dispositivos intrauterinos - DIU) - neutra "
 XV;PAPÉIS, PLÁSTICOS, PRODUTOS CERÂMICOS E VIDROS;10;1400100;7013;Objetos de vidro para serviço de mesa ou de cozinha
 XV;PAPÉIS, PLÁSTICOS, PRODUTOS CERÂMICOS E VIDROS;20;1400200;7013.37.00;Outros copos, exceto de vitrocerâmica
 XV;PAPÉIS, PLÁSTICOS, PRODUTOS CERÂMICOS E VIDROS;30;1400300;7013.42.90;Objetos para serviço de mesa (exceto copos) ou de cozinha, exceto de vitrocerâmica
