@@ -1,15 +1,15 @@
-Codigo;Descricao;Tributável
-00;Entrada com Recuperação de Crédito;Sim
-01;Entrada Tributável com Alíquota Zero;Sim
-02;Entrada Isenta;Não
-03;Entrada Não-Tributada;Sim
-04;Entrada Imune;Não
-05;Entrada com Suspensão;Não
-49;Outras Entradas;Não
-50;Saída Tributada;Sim
-51;Saída Tributável com Alíquota Zero;Sim
-52;Saída Isenta;Não
-53;Saída Não-Tributada;Não
-54;Saída Imune;Não
-55;Saída com Suspensão;Não
-99;Outras Saídas;Sim
+Codigo;Descricao;Tribut??vel
+00;Entrada com Recupera????o de Cr??dito;Sim
+01;Entrada Tribut??vel com Al??quota Zero;Sim
+02;Entrada Isenta;N??o
+03;Entrada N??o-Tributada;Sim
+04;Entrada Imune;N??o
+05;Entrada com Suspens??o;N??o
+49;Outras Entradas;N??o
+50;Sa??da Tributada;Sim
+51;Sa??da Tribut??vel com Al??quota Zero;Sim
+52;Sa??da Isenta;N??o
+53;Sa??da N??o-Tributada;N??o
+54;Sa??da Imune;N??o
+55;Sa??da com Suspens??o;N??o
+99;Outras Sa??das;Sim
