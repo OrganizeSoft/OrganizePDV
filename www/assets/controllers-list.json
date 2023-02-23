@@ -1,0 +1,184 @@
+{
+    "controllers" : [
+        {
+            "name": "ControllerArmazem",
+            "label": "Cadastro de Armazém"
+        },
+        {
+            "name": "ControllerCaixa",
+            "label": "Cadastro de Caixa"
+        },
+        {
+            "name": "ControllerCEST",
+            "label": "Cadastro de CEST"
+        },
+        {
+            "name": "ControllerCFOP",
+            "label": "Cadastro de CFOP"
+        },
+        {
+            "name": "ControllerCSTCOFINS",
+            "label": "Cadastro de CST COFINS"
+        },
+        {
+            "name": "ControllerCSTICMS",
+            "label": "Cadastro de CST ICMS"
+        },
+        {
+            "name": "ControllerCSTIPI",
+            "label": "Cadastro de CST IPI"
+        },
+        {
+            "name": "ControllerCSTPIS",
+            "label": "Cadastro de CST PIS"
+        },
+        {
+            "name": "ControllerField2Config",
+            "label": "Cadastro de Field2Config"
+        },
+        {
+            "name": "ControllerFormaPGTO",
+            "label": "Cadastro de Forma de Pagamento"
+        },
+        {
+            "name": "ControllerIndicadorDePreco",
+            "label": "Cadastro de Indicador de Preço"
+        },
+        {
+            "name": "ControllerIT",
+            "label": "Cadastro de IT"
+        },
+        {
+            "name": "ControllerMunicipio",
+            "label": "Cadastro de Município"
+        },
+        {
+            "name": "ControllerNaturezaOperacao",
+            "label": "Cadastro de Natureza de Operação"
+        },
+        {
+            "name": "ControllerNCM",
+            "label": "Cadastro de NCM"
+        },
+        {
+            "name": "ControllerPessoa",
+            "label": "Cadastro de Pessoa"
+        },
+        {
+            "name": "ControllerPreco",
+            "label": "Cadastro de Preço"
+        },
+        {
+            "name": "ControllerProdFor",
+            "label": "Cadastro de ProdFor"
+        },
+        {
+            "name": "ControllerProduto",
+            "label": "Cadastro de Produto"
+        },
+        {
+            "name": "ControllerTblPreco",
+            "label": "Cadastro de Tabela de Preço"
+        },
+        {
+            "name": "ControllerTES",
+            "label": "Cadastro de TES"
+        },
+        {
+            "name": "ControllerTipoDePessoa",
+            "label": "Cadastro de Tipo de Pessoa"
+        },
+        {
+            "name": "ControllerTipoDeProduto",
+            "label": "Cadastro de Tipo de Produto"
+        },
+        {
+            "name": "ControllerUF",
+            "label": "Cadastro de UF"
+        },
+        {
+            "name": "ControllerUnidade",
+            "label": "Cadastro de Unidade"
+        },
+        {
+            "name": "ControllerVeiculo",
+            "label": "Cadastro de Veículo"
+        },
+        {
+            "name": "ControllerVendedor",
+            "label": "Cadastro de Vendedor"
+        },
+        {
+            "name": "ControllerNotaEntrada",
+            "label": "Compras - Nota de Entrada"
+        },
+        {
+            "name": "ControllerPedidoCompra",
+            "label": "Compras - Pedido de Compra"
+        },
+        {
+            "name": "ControllerNumeracao",
+            "label": "Configurações - Numeração"
+        },
+        {
+            "name": "ControllerParametro",
+            "label": "Configurações - Parâmetro"
+        },
+        {
+            "name": "ControllerUsuario",
+            "label": "Configurações - Usuário"
+        },
+        {
+            "name": "ControllerEstoque",
+            "label": "Estoque - Estoque"
+        },
+        {
+            "name": "ControllerSaldo",
+            "label": "Estoque - Saldo"
+        },
+        {
+            "name": "ControllerTransferencia",
+            "label": "Estoque - Transferência"
+        },
+        {
+            "name": "ControllerInventario",
+            "label": "Estoque - Inventário"
+        },
+        {
+            "name": "ControllerICMS",
+            "label": "Fiscal - ICMS"
+        },
+        {
+            "name": "ControllerSPED",
+            "label": "Fiscal - SPED"
+        },
+        {
+            "name": "ControllerNotaSaida",
+            "label": "Vendas - Nota de Saída"
+        },
+        {
+            "name": "ControllerPedidoVenda",
+            "label": "Vendas - Pedido de Venda"
+        },
+        {
+            "name": "ControllerPrecoPDV",
+            "label": "Vendas - Preço PDV"
+        },
+        {
+            "name": "ControllerSaldoPDV",
+            "label": "Vendas - Saldo PDV"
+        },
+        {
+            "name": "ControllerNFCe",
+            "label": "Vendas - NFC-e"
+        },
+        {
+            "name": "ControllerNFe",
+            "label": "Vendas - NF-e"
+        },
+        {
+            "name": "ControllerTEF",
+            "label": "Vendas - TEF"
+        }
+    ]
+}
