@@ -33,10 +33,6 @@
             "label": "Cadastro de CST PIS"
         },
         {
-            "name": "ControllerField2Config",
-            "label": "Cadastro de Field2Config"
-        },
-        {
             "name": "ControllerFormaPGTO",
             "label": "Cadastro de Forma de Pagamento"
         },
